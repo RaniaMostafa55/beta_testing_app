@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This is a simple project with a text and a button
+- When the button is pressed, the text color changes between black and red
+- The main goal is to apply beta testing using "App Distribution"
+- After creating the flutter project, it was connected to a firebase project
+- Then, app distribution was enabled in the firebase project
+- Testers emails were added to send them an apk of the app
+- An apk was uploaded to the firebase project
+- The apk was sent to testers through mails to test the app
+- Now, through app distribution, you can view who was invited as a tester, who accepted the invitation, who downloaded the app and testers feedbacks
