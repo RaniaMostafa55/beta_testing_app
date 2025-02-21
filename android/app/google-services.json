@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098612113616",
+    "project_id": "emailsignin-8f899",
+    "storage_bucket": "emailsignin-8f899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098612113616:android:82dc383a49a1e4d4ce9ed5",
+        "android_client_info": {
+          "package_name": "com.example.beta_testing_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098612113616-b1pvb74p63us4kpqnc3n4eleirqq3b7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBAzJXKFO_lqVpKFcs8tJFd50bUNvR-oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098612113616-b1pvb74p63us4kpqnc3n4eleirqq3b7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
